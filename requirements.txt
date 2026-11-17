@@ -1,0 +1,22 @@
+# USB AI System - Python Dependencies
+# Install via: pip install -r requirements.txt
+
+# Core inference engine
+llama-cpp-python>=0.2.90
+
+# Web UI
+gradio>=4.44.0
+
+# Terminal UI
+rich>=13.0.0
+click>=8.0.0
+
+# HTTP & utilities
+requests>=2.31.0
+
+# Fine-tuning (hanya di lingkungan training, bukan di USB)
+# unsloth[colab-new]>=2024.11
+# trl>=0.11.0
+# peft>=0.13.0
+# transformers>=4.46.0
+# datasets>=3.0.0
