@@ -1,4 +1,4 @@
-# 🤖 USB-Embedded Portable AI System
+# USB-Embedded Portable AI System
 
 <div align="center">
 
@@ -15,32 +15,32 @@
 
 ---
 
-## 📖 Tentang Proyek
+## Tentang Proyek
 
 **USB-Embedded Portable AI System** adalah sistem kecerdasan buatan yang sepenuhnya berjalan dari sebuah perangkat USB tanpa memerlukan instalasi apapun di komputer host. Proyek ini merupakan **Tugas Akhir** dalam rangka menyelesaikan Program Studi Informatika di Universitas Andalas.
 
 Sistem ini menggabungkan:
-- 🧠 **Model AI fine-tuned** (berbasis Qwen2.5 / Phi-3 Mini + QLoRA)
-- 📦 **Auto-save & packaging** model langsung ke USB
-- 🖥️ **Runtime portabel** tanpa instalasi (Python Embeddable + llama.cpp)
-- 💬 **Antarmuka bilingual** (Indonesia & Inggris) via CLI dan Web UI
+-  **Model AI fine-tuned** (berbasis Qwen2.5 / Phi-3 Mini + QLoRA)
+-  **Auto-save & packaging** model langsung ke USB
+-  **Runtime portabel** tanpa instalasi (Python Embeddable + llama.cpp)
+-  **Antarmuka bilingual** (Indonesia & Inggris) via CLI dan Web UI
 
 ---
 
-## ✨ Fitur Utama
+##  Fitur Utama
 
 | Fitur | Deskripsi |
 |-------|-----------|
-| 🔌 **Plug & Play** | Colok USB, jalankan launcher — langsung siap |
-| 📥 **Auto-Save Model** | Model diunduh & disimpan otomatis ke USB saat setup pertama |
-| 🌐 **Offline-First** | Tidak membutuhkan koneksi internet untuk inferensi |
-| 🔄 **Lintas Platform** | Windows, Linux, dan macOS |
-| 🧹 **Zero Trace** | Tidak ada data yang tertinggal di komputer host |
-| 💾 **Riwayat Tersimpan** | Semua percakapan tersimpan di USB (SQLite) |
+|  **Plug & Play** | Colok USB, jalankan launcher — langsung siap |
+|  **Auto-Save Model** | Model diunduh & disimpan otomatis ke USB saat setup pertama |
+| **Offline-First** | Tidak membutuhkan koneksi internet untuk inferensi |
+|  **Lintas Platform** | Windows, Linux, dan macOS |
+|  **Zero Trace** | Tidak ada data yang tertinggal di komputer host |
+|  **Riwayat Tersimpan** | Semua percakapan tersimpan di USB (SQLite) |
 
 ---
 
-## 🗂️ Struktur Direktori
+##  Struktur Direktori
 
 ```
 USB_AI/
@@ -69,7 +69,7 @@ USB_AI/
 
 ---
 
-## 🚀 Cara Penggunaan
+##  Cara Penggunaan
 
 ### Setup Pertama (membutuhkan internet)
 
@@ -92,7 +92,7 @@ Colok USB ke komputer mana pun dan jalankan launcher. Sistem langsung aktif meng
 
 ---
 
-## ⚙️ Persyaratan Sistem
+##  Persyaratan Sistem
 
 | Komponen | Minimum | Rekomendasi |
 |----------|---------|-------------|
@@ -104,7 +104,7 @@ Colok USB ke komputer mana pun dan jalankan launcher. Sistem langsung aktif meng
 
 ---
 
-## 🛠️ Stack Teknologi
+##  Stack Teknologi
 
 - **Inference Engine:** [llama.cpp](https://github.com/ggerganov/llama.cpp)
 - **Base Model:** Qwen2.5-1.5B / Phi-3 Mini
@@ -117,7 +117,7 @@ Colok USB ke komputer mana pun dan jalankan launcher. Sistem langsung aktif meng
 
 ---
 
-## 📊 Status Pengembangan
+##  Status Pengembangan
 
 - [x] PRD (Product Requirements Document)
 - [ ] Desain Arsitektur Teknis
@@ -133,13 +133,13 @@ Colok USB ke komputer mana pun dan jalankan launcher. Sistem langsung aktif meng
 
 ---
 
-## 📄 Dokumentasi
+##  Dokumentasi
 
 - [`PRD_USB_AI_System.md`](./PRD_USB_AI_System.md) — Product Requirements Document
 
 ---
 
-## 👤 Penulis
+##  Penulis
 
 **[Nama Mahasiswa]**
 - Program Studi: Informatika
